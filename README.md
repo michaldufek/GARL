@@ -1,7 +1,6 @@
 # GARL
 GRAPH ATTENTION REINFORCEMENT LEARNING 
 
-Abstract
 In this study, we propose a graph attention reinforcement learning (GARL) ap-
 proach for the stochastic optimal control problem in asset pricing. Our approach
 is based on a classical factor model that is redesigned as a multi-class classi-
